@@ -40,9 +40,13 @@ The result is a clear, visual breakdown of:
 ##  Repository Structure
 Stable-coin-Liquidity-Rotation/
 ├── stablecoin_flows.csv # Raw data exported from Dune
+
 ├── Stablecoin_Liquidity_Rotation.ipynb # Full analysis notebook
+
 ├── README.md # This file
+
 └── requirements.txt # Python dependencies
+
 
 ##  How to Reproduce
 
